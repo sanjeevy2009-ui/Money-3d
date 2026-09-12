@@ -1,7 +1,7 @@
 import React, { useState, useMemo, useEffect, useRef } from 'react';
 import {
   LayoutDashboard, Receipt, TrendingUp, TrendingDown, Wallet, CreditCard,
-  PiggyBank, Target, BarChart3, FileText, Settings, Search, Bell, Plus,
+  PiggyBank, Target, BarChart3, FileText, Search, Bell, Plus,
   Sun, Moon, X, ChevronDown, ChevronRight, Filter, Download, Upload,
   Calendar, MapPin, Tag, Paperclip, ArrowUpRight, ArrowDownLeft, ArrowRightLeft,
   Smartphone, Banknote, Building2, Lock, Shield, Eye, EyeOff, Menu, Home,
